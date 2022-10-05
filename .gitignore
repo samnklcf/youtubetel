@@ -10,6 +10,7 @@ __pycache__/
 
 # IDE Folders
 .idea/
+.en/
 
 # Distribution / packaging
 .Python
